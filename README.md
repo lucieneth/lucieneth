@@ -5,18 +5,16 @@
 <p align="center"><a href="https://unlucky.life/" target="_blank"><img src="https://unlucky.life/images/favicon.webp" width="128" height="128" alt="logo.png"></a></p></p>
 
 ```python
-print(f`I'm {front-end} and {back-end} junior developer`)
+print(f`My main hobbies include IT, gaming and coding random projects with AI`)
 ```
 
 ```python
-print(f`Follow {OkPeach} on Github`)
+print(f`Follow {lucieneth} on Github`)
 ```
 
 ```javascript
        OS  :  windows 11
-    Linux  :  Arch w/hyprland
-Languages  :  C#, html, css (scss), js (jquery), nodejs, python
- Learning  :  PHP, C++
+Instagram  :  lucienrip
   Discord  :  unlucky.life
 ```
 
