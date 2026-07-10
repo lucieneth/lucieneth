@@ -1,7 +1,9 @@
 
 ![](https://komarev.com/ghpvc/?username=OKPeach&color=blueviolet&abbreviated=true)</a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=bb2527&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/OkPeach" alt="Profile Stars"></a>
-<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=bb2527&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/OkPeach" alt="Profile Forks"></a>
+<img src="https://img.shields.io/github/stars/lucieneth?label=Stars" alt="stars">
+<img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Dlucieneth&longCache=true"/>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=lucieneth.lucieneth)
+
 <p align="center"><a href="https://unlucky.life/" target="_blank"><img src="https://unlucky.life/images/favicon.webp" width="128" height="128" alt="logo.png"></a></p></p>
 
 ```python
@@ -23,8 +25,5 @@ print(f`I love to {learn} and {explore} new opportunities.`)
 ```
 
 <p align="center">
-	<b>Github Stats</b><br>
-	<img src="https://github-readme-stats.vercel.app/api?username=OkPeach&include_all_commits=true&show_icons=true&hide_border=true&hide_title=true&count_private=true&theme=dark">
-	<br>
-	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OkPeach&layout=compact&count_private=true&langs_count=8&hide_border=true&theme=dark">
+	![Metrics](https://metrics.lecoq.io/lucieneth?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FPrague)
 </p>
