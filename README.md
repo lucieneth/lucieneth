@@ -24,6 +24,5 @@ Instagram  :  lucienrip
 print(f`I love to {learn} and {explore} new opportunities.`)
 ```
 
-<p align="center">
-	![Metrics](https://metrics.lecoq.io/lucieneth?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FPrague)
-</p>
+
+![Metrics](https://metrics.lecoq.io/lucieneth?template=classic&base.header=0&gists=1&lines=1&config.timezone=Europe%2FPrague)
